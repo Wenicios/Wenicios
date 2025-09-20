@@ -3,11 +3,10 @@
 🌱 Sou um desenvolvedor com foco e paixão pelo Front-End, especializado em criar interfaces de usuário interativas, responsivas e visualmente agradáveis. Tenho grande interesse em transformar ideias e layouts em código limpo e funcional.
 Embora minha especialidade seja o Front-End, também exploro o desenvolvimento Back-End para construir aplicações mais completas e entender a arquitetura de ponta a ponta.
 ##
-
 <div>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wenicios&show_icons=true&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api?username=wenicios&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -16,6 +15,13 @@ Embora minha especialidade seja o Front-End, também exploro o desenvolvimento B
   />
   <img src="https://github-readme-stats.vercel.app/api?username=wenicios&show_icons=true" />
 </picture>
+<img 
+  width = "356"
+  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenicios&layout=compact&theme=tokyonight&locale=pt-br" />
+</div>
+
+<div>
+
 </div>
 
 ---
@@ -63,5 +69,3 @@ Embora minha especialidade seja o Front-End, também exploro o desenvolvimento B
   width = "30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
                                         
-                    
-          
